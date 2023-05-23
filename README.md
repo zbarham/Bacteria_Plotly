@@ -27,7 +27,7 @@ The goal of the project is to create a comprehensive visual exploration tool to 
       ![Gauge_Chart](Screenshots/Gauge_Chart-Weekly_Washing.png)
 
 - All charts update whenever a new sample is selected from the dropdown menu.
-
+    https://htmlpreview.github.io/?https://github.com/zbarham/Plotly_Chart/blob/main/index.html
   ![Dashboard](Screenshots/PlotlyChartsWebpage.png)
 
 ## Data Source
